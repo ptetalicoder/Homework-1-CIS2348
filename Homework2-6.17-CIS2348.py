@@ -2,7 +2,7 @@
 #ID 1541822
 #Homework 2 6.17
 
-print("")
+
 simplepassword=input()
 password=''
 for x in simplepassword:
